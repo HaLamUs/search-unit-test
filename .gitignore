@@ -1,0 +1,17 @@
+# Build generated
+testSearchFunction.xcodeproj/build/
+testSearchFunction.xcodeproj/DerivedData
+testSearchFunction.xcodeproj/build.xcarchive
+
+## Various settings
+testSearchFunction.xcodeproj/*.pbxuser
+testSearchFunction.xcodeproj/!default.pbxuser
+testSearchFunction.xcodeproj/*.mode1v3
+testSearchFunction.xcodeproj/!default.mode1v3
+testSearchFunction.xcodeproj/*.mode2v3
+testSearchFunction.xcodeproj/!default.mode2v3
+testSearchFunction.xcodeproj/*.perspectivev3
+testSearchFunction.xcodeproj/!default.perspectivev3
+testSearchFunction.xcodeproj/xcuserdata
+testSearchFunction.xcodeproj/project.xcworkspace/xcuserdata
+testSearchFunction.xcodeproj/xcuserdata/testSearchFunction.xcuserdatad

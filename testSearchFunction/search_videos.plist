@@ -1,0 +1,2170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Hands</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Wicket-Keeping _ Talent _ The Basics of wicket keeping for Talented players _ Hands</string>
+		<key>url</key>
+		<string>5084462161001</string>
+		<key>thumbnail</key>
+		<string>3_1_2.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Head</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Wicket-Keeping _ Talent _ The Basics of wicket keeping for Talented players _ Head</string>
+		<key>url</key>
+		<string>5084441185001</string>
+		<key>thumbnail</key>
+		<string>3_1_1_b.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Feet</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Wicket-Keeping _ Talent _ The Basics of wicket keeping for Talented players _ Feet</string>
+		<key>url</key>
+		<string>5084441188001</string>
+		<key>thumbnail</key>
+		<string></string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Ramp It Up</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Wicket-Keeping _ Representative _ Videos aimed at Representative players covering wicket keeping _ Ramp It Up</string>
+		<key>url</key>
+		<string>5070585629001</string>
+		<key>thumbnail</key>
+		<string>3_3_4.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Bat Catch</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Wicket-Keeping _ Representative _ Videos aimed at Representative players covering wicket keeping _ Bat Catch</string>
+		<key>url</key>
+		<string>5070565964001</string>
+		<key>thumbnail</key>
+		<string>3_3_2.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Bounce Reaction</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Wicket-Keeping _ Representative _ Videos aimed at Representative players covering wicket keeping _ Bounce Reaction</string>
+		<key>url</key>
+		<string>5070560344001</string>
+		<key>thumbnail</key>
+		<string>3_3_3.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Leg Side Stumpings</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Wicket-Keeping _ Representative _ Videos aimed at Representative players covering wicket keeping _ Leg Side Stumpings</string>
+		<key>url</key>
+		<string>5084470132001</string>
+		<key>thumbnail</key>
+		<string>3_3_3.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Slips Catching</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Wicket-Keeping _ Representative _ Videos aimed at Representative players covering wicket keeping _ Slips Catching</string>
+		<key>url</key>
+		<string>5070536917001</string>
+		<key>thumbnail</key>
+		<string>3_3_1.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Hands</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Wicket-Keeping _ Representative _ Videos aimed at Representative players covering wicket keeping _ Hands</string>
+		<key>url</key>
+		<string>5070560332001</string>
+		<key>thumbnail</key>
+		<string>3_1_2.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Head</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Wicket-Keeping _ Representative _ Videos aimed at Representative players covering wicket keeping _ Head</string>
+		<key>url</key>
+		<string>5070574308001</string>
+		<key>thumbnail</key>
+		<string>3_1_1_b.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Feet</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Wicket-Keeping _ Representative _ Videos aimed at Representative players covering wicket keeping _ Feet</string>
+		<key>url</key>
+		<string>5084441188001</string>
+		<key>thumbnail</key>
+		<string></string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Ramp It Up</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Wicket-Keeping _ Community _ The Basics and other videos to add to your training session _ Ramp It Up</string>
+		<key>url</key>
+		<string>5070567875001</string>
+		<key>thumbnail</key>
+		<string>3_1_4.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Keeping Up To The Stumps</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Wicket-Keeping _ Community _ The Basics and other videos to add to your training session _ Keeping Up To The Stumps</string>
+		<key>url</key>
+		<string>5070567872001</string>
+		<key>thumbnail</key>
+		<string>3_1_3.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Bounce Reaction</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Wicket-Keeping _ Community _ The Basics and other videos to add to your training session _ Bounce Reaction</string>
+		<key>url</key>
+		<string>5070560332001</string>
+		<key>thumbnail</key>
+		<string>3_1_2.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Slips Catching</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Wicket-Keeping _ Community _ The Basics and other videos to add to your training session _ Slips Catching</string>
+		<key>url</key>
+		<string>5070574308001</string>
+		<key>thumbnail</key>
+		<string>3_1_1_b.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Stump The Batter</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Wicket-Keeping _ Community _ The Basics and other videos to add to your training session _ Stump The Batter</string>
+		<key>url</key>
+		<string>5084469390001</string>
+		<key>thumbnail</key>
+		<string>3_1_1_a.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Hands</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Wicket-Keeping _ Community _ The Basics and other videos to add to your training session _ Hands</string>
+		<key>url</key>
+		<string>5084462161001</string>
+		<key>thumbnail</key>
+		<string>3_1_2.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Head</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Wicket-Keeping _ Community _ The Basics and other videos to add to your training session _ Head</string>
+		<key>url</key>
+		<string>5084441185001</string>
+		<key>thumbnail</key>
+		<string>3_1_1_b.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Feet</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Wicket-Keeping _ Community _ The Basics and other videos to add to your training session _ Feet</string>
+		<key>url</key>
+		<string>5084439156001</string>
+		<key>thumbnail</key>
+		<string></string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>The Wicket Keeping Overview</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Wicket-Keeping _ Overview _ Key points for wicket keepers to remember _ The Wicket Keeping Overview</string>
+		<key>url</key>
+		<string>5071601507001</string>
+		<key>thumbnail</key>
+		<string>3_1_1_a.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Complete</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Throwing _ Talent _ An extensive workshop for your throwing program _ Complete</string>
+		<key>url</key>
+		<string>4751716638001</string>
+		<key>thumbnail</key>
+		<string>3_1_1_a.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Throw At The Cone</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Throwing _ Representative _ Activities to keep your players throwing _ Throw At The Cone</string>
+		<key>url</key>
+		<string>5084467916001</string>
+		<key>thumbnail</key>
+		<string>2_2_2.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>React &amp; Run Out</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Throwing _ Representative _ Activities to keep your players throwing _ React &amp; Run Out</string>
+		<key>url</key>
+		<string>5084467913001</string>
+		<key>thumbnail</key>
+		<string>2_2_1.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Under/Over The Hurdle</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Throwing _ Community _ A condensed throwing program for your players _ Under/Over The Hurdle</string>
+		<key>url</key>
+		<string>4656015440001</string>
+		<key>thumbnail</key>
+		<string>2_1_3.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Crazy Stump Throw</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Throwing _ Community _ A condensed throwing program for your players _ Crazy Stump Throw</string>
+		<key>url</key>
+		<string>5084467909001</string>
+		<key>thumbnail</key>
+		<string>2_1_2.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Scorcher Ball</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Throwing _ Community _ A condensed throwing program for your players _ Scorcher Ball</string>
+		<key>url</key>
+		<string>4656158481001</string>
+		<key>thumbnail</key>
+		<string>2_1_1_b.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Target Throwing</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Throwing _ Community _ A condensed throwing program for your players _ Target Throwing</string>
+		<key>url</key>
+		<string>4656158488001</string>
+		<key>thumbnail</key>
+		<string>2_1_1_a.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Condensed</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Throwing _ Community _ A condensed throwing program for your players _ Condensed</string>
+		<key>url</key>
+		<string>4751323807001</string>
+		<key>thumbnail</key>
+		<string></string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Throwing Overview</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Throwing _ Overview _ Key points to remember when throwing _ Throwing Overview</string>
+		<key>url</key>
+		<string>5071602945001</string>
+		<key>thumbnail</key>
+		<string>2_1_1_a.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Catch</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Fielding _ Talent _ The Basics of fielding for Talented players _ Catch</string>
+		<key>url</key>
+		<string>5084465951001</string>
+		<key>thumbnail</key>
+		<string>1_2_2.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Move</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Fielding _ Talent _ The Basics of fielding for Talented players _ Move</string>
+		<key>url</key>
+		<string>5084448236001</string>
+		<key>thumbnail</key>
+		<string>1_2_1.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Watch</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Fielding _ Talent _ The Basics of fielding for Talented players _ Watch</string>
+		<key>url</key>
+		<string>5084450849001</string>
+		<key>thumbnail</key>
+		<string>1_2_1.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Pairs Catching</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Fielding _ Representative _ Videos aimed at Representative players covering The Basics and activities _ Pairs Catching</string>
+		<key>url</key>
+		<string>5084466011001</string>
+		<key>thumbnail</key>
+		<string>1_2_3.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Crossball</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Fielding _ Representative _ Videos aimed at Representative players covering The Basics and activities _ Crossball</string>
+		<key>url</key>
+		<string>5084467881001</string>
+		<key>thumbnail</key>
+		<string>1_2_2.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Boundary Catches</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Fielding _ Representative _ Videos aimed at Representative players covering The Basics and activities _ Boundary Catches</string>
+		<key>url</key>
+		<string>5084467901001</string>
+		<key>thumbnail</key>
+		<string>1_2_1.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Get Up &amp; Catch</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Fielding _ Representative _ Videos aimed at Representative players covering The Basics and activities _ Get Up &amp; Catch</string>
+		<key>url</key>
+		<string>5084467899001</string>
+		<key>thumbnail</key>
+		<string>1_2_3.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Saving A Four</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Fielding _ Representative _ Videos aimed at Representative players covering The Basics and activities _ Saving A Four</string>
+		<key>url</key>
+		<string>5084466005001</string>
+		<key>thumbnail</key>
+		<string>1_2_2.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Diving Catches</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Fielding _ Representative _ Videos aimed at Representative players covering The Basics and activities _ Diving Catches</string>
+		<key>url</key>
+		<string>5084450888001</string>
+		<key>thumbnail</key>
+		<string>1_2_1.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Fast Fielding</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Fielding _ Representative _ Videos aimed at Representative players covering The Basics and activities _ Fast Fielding</string>
+		<key>url</key>
+		<string>5084462178001</string>
+		<key>thumbnail</key>
+		<string>1_2_3.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Spin &amp; Catch</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Fielding _ Representative _ Videos aimed at Representative players covering The Basics and activities _ Spin &amp; Catch</string>
+		<key>url</key>
+		<string>5084470007001</string>
+		<key>thumbnail</key>
+		<string>1_2_2.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Pairs High Catches</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Fielding _ Representative _ Videos aimed at Representative players covering The Basics and activities _ Pairs High Catches</string>
+		<key>url</key>
+		<string>5084466007001</string>
+		<key>thumbnail</key>
+		<string>1_2_1.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Catch</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Fielding _ Representative _ Videos aimed at Representative players covering The Basics and activities _ Catch</string>
+		<key>url</key>
+		<string>5084462138001</string>
+		<key>thumbnail</key>
+		<string>1_2_2.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Move</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Fielding _ Representative _ Videos aimed at Representative players covering The Basics and activities _ Move</string>
+		<key>url</key>
+		<string>5084448230001</string>
+		<key>thumbnail</key>
+		<string>1_2_1.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Watch</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Fielding _ Representative _ Videos aimed at Representative players covering The Basics and activities _ Watch</string>
+		<key>url</key>
+		<string>5084448230001</string>
+		<key>thumbnail</key>
+		<string>1_2_1.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Cricket Circuit</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Fielding _ Community _ The Basics and other videos to add to your training session _ Cricket Circuit</string>
+		<key>url</key>
+		<string>4656158485001</string>
+		<key>thumbnail</key>
+		<string>1_1_4.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>4 Corners</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Fielding _ Community _ The Basics and other videos to add to your training session _ 4 Corners</string>
+		<key>url</key>
+		<string>4656101447001</string>
+		<key>thumbnail</key>
+		<string>1_1_3.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Derby Cones</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Fielding _ Community _ The Basics and other videos to add to your training session _ Derby Cones</string>
+		<key>url</key>
+		<string>4656158491001</string>
+		<key>thumbnail</key>
+		<string>1_1_2.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Hurricane Handling</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Fielding _ Community _ The Basics and other videos to add to your training session _ Hurricane Handling</string>
+		<key>url</key>
+		<string>4656015437001</string>
+		<key>thumbnail</key>
+		<string>1_1_1_b.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>In The Water, Out The Water</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Fielding _ Community _ The Basics and other videos to add to your training session _ In The Water, Out The Water</string>
+		<key>url</key>
+		<string>4347210136001</string>
+		<key>thumbnail</key>
+		<string>1_1_1_a.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Catch</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Fielding _ Community _ The Basics and other videos to add to your training session _ Catch</string>
+		<key>url</key>
+		<string>5084462125001</string>
+		<key>thumbnail</key>
+		<string>1_1_1_b.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Move</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Fielding _ Community _ The Basics and other videos to add to your training session _ Move</string>
+		<key>url</key>
+		<string>5084439135001</string>
+		<key>thumbnail</key>
+		<string>1_1_1_a.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Watch</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Fielding _ Community _ The Basics and other videos to add to your training session _ Watch</string>
+		<key>url</key>
+		<string>5084448224001</string>
+		<key>thumbnail</key>
+		<string>1_1_1_a.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Fielding Overview</string>
+		<key>module</key>
+		<string>Fielding</string>
+		<key>description</key>
+		<string>Fielding _ Overview _ 11 players on two batters - how to make your fielding fun _ Fielding Overview</string>
+		<key>url</key>
+		<string>5071602939001</string>
+		<key>thumbnail</key>
+		<string>1_1_1_a.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Rope Skipping</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 3 _ Phase 4 _ Conditioning _ Rope Skipping _ Rope skipping is an excellent activity to build conditioning, footwork skills, co ordination, leg speed and power.&amp; Players might need to be taught the basics, and once mastered, there are countless drills and exercises to do!
+
+Basic: To find a rope that fits, place one foot in the center of the rope and lift the handles - they shouldn&apos;t go past your armpits.
+Jump 1 to 2 inches off floor, giving rope just enough space to slip under your feet. Only the balls of feet should touch the floor.
+Keep elbows close to sides as you turn the rope.&amp; The movement comes from the wrists and forearms, not the shoulders.
+Aim: One jump per loop, single step.</string>
+		<key>url</key>
+		<string>3918536510001</string>
+		<key>thumbnail</key>
+		<string>3_5_4.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Repeat Run-a-3s</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 3 _ Phase 4 _ Conditioning _ Repeat Run-a-3s _ A bit like suicide runs, but cricket-specific. Players run 3 runs the length of a cricket pitch.&amp; Their aim is to run as fast as they can, focusing on good turn mechanics.&amp; This is a repeat effort exercise of maximal intensity.
+
+GIve players a target time in which to run the 3 runs in.&amp; For example, under 15 seconds.
+
+Provide them with a period of rest to partially recover, but not completely, (no more than 30 seconds.)
+Indicate the number of repetitions to complete.
+6 reps of 3-Run-A-3&apos;s sub 15 seconds on a 30 second cycle.</string>
+		<key>url</key>
+		<string>3918494113001</string>
+		<key>thumbnail</key>
+		<string>3_5_3.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Dragonfly Run</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 3 _ Phase 4 _ Conditioning _ Dragonfly Running _ 5 Players form a group
+The drill is similar to Indian File Running, Except that the runner weaves though each player in the line.&amp; THe drill incorporates the varied speed component, as well as ducking and weaving drills
+
+You can make this a competitive exercise and increase the intensity by racing terms against each other
+
+Begin with 1 lap of the field. Build to 4 laps</string>
+		<key>url</key>
+		<string>3918536511001</string>
+		<key>thumbnail</key>
+		<string>3_5_2.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Indian File Running</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 3 _ Phase 4 _ Conditioning _ Indian Running File _ 5 Players form a group.&amp;
+The group starts by running in a straight, single file line around the perimeter of the field.&amp; The runner at the back of the line runs to the outside to sprint forward to a position in front of the original leader and becomes the new leader.&amp; He/she slows to the pace of the group.&amp; Then, the new person in the back of the line sprints forward and becomes the new leader and slows down to the pace of the group.&amp; The process repeats and becomes a cycle.&amp;
+You can make this a competitive exercise and increases the intensity by racing teams against each other.&amp;
+Begin with 1 lap of the field.&amp; Build to 4.</string>
+		<key>url</key>
+		<string>3918494114001</string>
+		<key>thumbnail</key>
+		<string>3_5_1.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Throwing Warm-Up</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 3 _ Phase 3 _ Shoulder Health &amp; Upper Body Strength _ Standard throwing warm up _ Players to pair up with a cricket ball between them and a baseball mitt each.&amp; Wicketkeeper to use catching gloves.&amp; each player to complete following number throws at set distances with suggested intensity
+
+1) 1 set of 10 flat throws at 70-75% intensity over 15-20m
+2) 1 set of 10 flat throws at 90% intensity over 25-30m
+3) 1 set of 10 flat throws at 90% intensity over 35-40m</string>
+		<key>url</key>
+		<string>3918544785001</string>
+		<key>thumbnail</key>
+		<string>3_4_5.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Push-Ups</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 3 _ Phase 3 _ Shoulder Health &amp; Upper Body Strength _ Push-Ups _ Complete as many sets as required to complete a total of 20 push-ups with good form.&amp; Aim is to complete 20 good form push-ups consecutively</string>
+		<key>url</key>
+		<string>3918536512001</string>
+		<key>thumbnail</key>
+		<string>3_4_4.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Supermans</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 3 _ Phase 3 _ Shoulder Health &amp; Upper Body Strength _ Supermans _ In plank position, simultaneously extend left arm and right leg.&amp; Hold for 3 seconds.&amp; Return to centre and repeat the action with right arm and left leg</string>
+		<key>url</key>
+		<string>3918494116001</string>
+		<key>thumbnail</key>
+		<string>3_4_3.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Open Arms</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 3 _ Phase 3 _ Shoulder Health &amp; Upper Body Strength _ Open Arms _ Stand tall, feet parallel and shoulder width apart.&amp; With arms at 60 degree abduction and palms facing forward, squeeze arms behind the line of the body to open the chest &amp; shoulders.&amp; Bring back to the midline and lift to 90 degree abduction and repeat the action.&amp; Bring back to the midline and lift to 120 degree abduction and repeat the action.&amp; Increase range and movement speed, and vary arm position - i.e right arm at 120 degree with left arm at 60 degree abduction.</string>
+		<key>url</key>
+		<string>3918544786001</string>
+		<key>thumbnail</key>
+		<string>3_4_2.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Arm Circles : Small-Big-Small</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 3 _ Phase 3 _ Shoulder Health &amp; Upper Body Strength _ Arm Circles : Small-Big-Small _ Stand tall, feet parallel and shoulder width apart.&amp; Extend arms out to the side, shoulder height.&amp; Make small circular movements with the arms, initiating the action from the shoulder joint.&amp; Complete in a forwards motion, followed by a backwards motion.&amp; Increase range and movement speed whilst maintaining stability and stillness through trunk and hips.</string>
+		<key>url</key>
+		<string>3918536513001</string>
+		<key>thumbnail</key>
+		<string>3_4_1.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>10 - 0 - 5 Turn Speed</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 3 _ Phase 2 _ Locomotion _ 10 - 0 - 5 Turn Speed _ This drill requires players to work their turn speed in relation to correct wicket-running mechanics.&amp;
+From athletic &quot;&quot;power&quot;&quot; stance position, players to sprint forward to the 10m line and turn rapidly to return 5m.</string>
+		<key>url</key>
+		<string>3918494117001</string>
+		<key>thumbnail</key>
+		<string>3_3_4.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Fly In + Outs</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 3 _ Phase 2 _ Locomotion _ Fly In + Outs (Accelerate 10 - Top Speed 10 - Ease off 10) _ The aim of this drill is to move in and out of top speed sprinting.&amp;
+
+Accelerate from 0-10m. From 10-20m players should be at top sprint speed.&amp; From 20-30m, players relax and ease off</string>
+		<key>url</key>
+		<string>3918536514001</string>
+		<key>thumbnail</key>
+		<string>3_3_2.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Falling Acceleration Starts</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 3 _ Phase 2 _ Locomotion _ Falling Acceleration Starts _ From athletic &quot;power&quot; stance position, on cue, players to lean and &quot;fall&quot; forward as far as possible.&amp; As soon as they feel as if they are going to fall, facilitate a good knee drive in front to explode towards the 20 metre marker
+
+Complete 3 run-throughs, increasing pace with each effort.&amp;
+
+As a variation, stand at the 10 Metre mark with a tennis ball in hand and arm extended at shoulder level held out to the side.&amp; Drops the ball - the aim is for the player to catch the ball before it bounces</string>
+		<key>url</key>
+		<string>3918544787001</string>
+		<key>thumbnail</key>
+		<string>3_3_3.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Easy Run throughs</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 3 _ Phase 2 _ Locomotion _ Easy Run Through _ At around 3/4 pace, players must run from start line to 30 M mark</string>
+		<key>url</key>
+		<string>3918494119001</string>
+		<key>thumbnail</key>
+		<string>3_3_1.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Hop + Hold</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 3 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Hop and Hold _ For this drill, players to hop and hold on the same leg.&amp; Ask them to focus on increasing their hopping distance so that the demands on their landing skills are increased, as well as targeting single leg strength and power components</string>
+		<key>url</key>
+		<string>3918544788001</string>
+		<key>thumbnail</key>
+		<string>3_2_10.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Lateral Leap + Hold</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 3 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Lateral Leap And Hold _ This is essentially the same drill as the leap and hold.&amp; This time leaping in a lateral direction.&amp; Suggest to the players to visualise they are leaping from one side of a lane on an athletics track to the other side.</string>
+		<key>url</key>
+		<string>3918536515001</string>
+		<key>thumbnail</key>
+		<string>3_2_9.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Fast Switch Reaction Cues</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 3 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Fast Switch Reaction Cues _ Players to raise one leg to a locked horizontal position with hip held high.&amp; On cue of &quot;switch&quot;, players to with legs rapidly as possible and hold.&amp; The aim is to maintain stillness of head and trunk, whilst arms and legs change positions with rhythmic speed and a piston-like action
+
+Change the cue from &quot;Switch&quot; to a number (e.g. 1,2,3,4) to indicate the number of times arms and legs to change position.&amp; Call the numbers randomly.</string>
+		<key>url</key>
+		<string>3918494120001</string>
+		<key>thumbnail</key>
+		<string>3_2_8.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Stork Tip</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 3 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Stork Tip _ High step to plant foot and tip forward to touch the ground close to toes.&amp;
+Aim to hold the leg straight to encourage length through the hamstrings</string>
+		<key>url</key>
+		<string>3918544789001</string>
+		<key>thumbnail</key>
+		<string>3_2_7.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Arabesque Balance</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 3 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Arabesque Balance _ High step to plant foot and tip forward into an arabesque balance, maintaining strong streamlined position from crown of head through to extended leg behind.&amp; Hold 3 Seconds.&amp; Aim to hold standing leg straight to encourage length through hamstrings</string>
+		<key>url</key>
+		<string>3918494122001</string>
+		<key>thumbnail</key>
+		<string>3_2_6.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Sumo Squats + Side Bend</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 3 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Travelling sumo squats and side bend _ The squat action is the same.&amp; The addition is the side bend at the bottom.&amp;
+
+At the bottom of the squat, raise arm of trailing leg and stretch over top of head into a lateral stretch.&amp; Return to centre with trunk upright and chest open.</string>
+		<key>url</key>
+		<string>3918544790001</string>
+		<key>thumbnail</key>
+		<string>3_2_5.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Lunge + Extend + Rotate</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 3 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Lunge + Extend + Rotate</string>
+		<key>url</key>
+		<string>3918544792001</string>
+		<key>thumbnail</key>
+		<string>3_2_3.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Sumo Squats</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 3 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Travelling Sumo Squats _ Take a side-step so that feet are placed wider than shoulder width apart, weight equally distributed from left to right from heels to balls of feet.&amp;
+Initiate a squat movement simultaneously flexing hips, knees and ankles.&amp; Keep your weight centred, knees taking over toes and soles of feet in contact with the ground.&amp;
+Descent to a thighs parallel position and pause for 1 Second. (Heels must stay on the ground.)
+As you lift out of the squat, word for the ground up to push &quot;through&quot; the floor into full standing position.&amp; Pivot on lead leg to face the opposite direction and repeat.</string>
+		<key>url</key>
+		<string>3918494123001</string>
+		<key>thumbnail</key>
+		<string>3_2_4.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Lunge + &quot;Point The Gun&quot;</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 3 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Lunge + &quot;Point The Gun&quot; _ The lunge action is the same, this time arms are extended in front of the chest with palms pressed together.&amp;
+As you descended into lunge, rotate torso to the same side as the bent knee, aiming to twist as far as possible with arms straight and head in line with torso.</string>
+		<key>url</key>
+		<string>3918536517001</string>
+		<key>thumbnail</key>
+		<string>3_2_2.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Lunge + Streamlined Arms</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 3 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Lunge and Streamlined Arms _ Lift right knee high to take an exaggerated step forward and plant the right foot onto the ground pointing directly ahead.&amp;
+Descend into a lunge position by flexing right hip, knee and ankle.&amp; Front thigh should reach parallel position to the floor.&amp; At the same time, extend the left led behind so that there is equal weight distribution to bring strength and stability to the posture.&amp;
+Reach both arms overhead into a streamlined position to open chest , torso, and front of hips.&amp; Face palms forward and squeeze biceps behind ears.&amp; Stay strong through the core as you come out of the lunge to lift left knee high and through to change sides</string>
+		<key>url</key>
+		<string>3918494124001</string>
+		<key>thumbnail</key>
+		<string>3_2_1.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Calf Pumps</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 3 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Calf Pumps</string>
+		<key>url</key>
+		<string>3918544793001</string>
+		<key>thumbnail</key>
+		<string>3_1_4.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Downward Dog to Upward Dog</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 3 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Downward Dog - Plank (10s) - Lower (5s Count) - Upward Dog</string>
+		<key>url</key>
+		<string>3918536518001</string>
+		<key>thumbnail</key>
+		<string>3_1_3.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Downward Dog</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 3 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Downward facing dog + upward facing dog</string>
+		<key>url</key>
+		<string>3918494125001</string>
+		<key>thumbnail</key>
+		<string>3_1_2.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Crucifix Cross-Overs Prone</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 3 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Crucifix Cross-Overs Prone</string>
+		<key>url</key>
+		<string>3918544794001</string>
+		<key>thumbnail</key>
+		<string>3_1_1_b.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Crucifix Cross-Overs Supine</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 3 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Crucifix Cross Overs Supine</string>
+		<key>url</key>
+		<string>3918536521001</string>
+		<key>thumbnail</key>
+		<string>3_1_1_a.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Rope Skipping</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 2 _ Phase 4 _ Conditioning Activity _ Skipping rope _ Rope skipping is an excellent activity to build conditioning, footwork skills, co ordination, leg speed and power.&amp; Players might need to be taught the basics, and once mastered, there are countless drills and exercises to do!
+
+Basic: To find a rope that fits, place one foot in the center of the rope and lift the handles - they shouldn&apos;t go past your armpits.&amp;
+Jump 1 to 2 inches off floor, giving rope just enough space to slip under your feet. Only the balls of feet should touch the floor.&amp;
+Keep elbows close to sides as you turn the rope. The movement comes from the wrists and forearms, not the shoulders.&amp;
+Aim: One jump per loop, single step.</string>
+		<key>url</key>
+		<string>3918494126001</string>
+		<key>thumbnail</key>
+		<string>2_4_4.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Repeat Run-a-3s</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 2 _ Phase 4 _ Conditioning Activity _ Repeat run a 3s _ A bit like suicide runs, but cricket-specific.&amp; Players run 3 runs the length of a cricket pitch.&amp; Their aim is to run as fast as they can, focusing on good turn mechanics.&amp; This is a repeat effort exercise of maximal intensity.&amp;
+GIve players a target time in which to run the 3 runs in. For example, under 15 seconds.&amp;
+
+Provide them with a period of rest to partially recover, but not completely, (no more than 30 seconds.)
+Indicate the number of repetitions to complete.&amp;
+6 reps of 3-Run-A-3&apos;s sub 15 seconds on a 30 second cycle.</string>
+		<key>url</key>
+		<string>3918544795001</string>
+		<key>thumbnail</key>
+		<string>2_4_3.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Dragonfly Run</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 2 _ Phase 4 _ Conditioning Activity _ Dragonfly Running _ 5 Players form a group
+The drill is similar to Indian File Running, Except that the runner weaves though each player in the line.&amp; THe drill incorporates the varied speed component, as well as ducking and weaving drills
+
+You can make this a competitive exercise and increase the intensity by racing terms against each other
+
+Begin with 1 lap of the field.&amp; Build to 4 laps</string>
+		<key>url</key>
+		<string>3918536522001</string>
+		<key>thumbnail</key>
+		<string>2_4_2.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Indian File Running</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 2 _ Phase 4 _ Conditioning Activity _ Indian Running File _ 5 Players form a group.&amp;
+The group starts by running in a straight, single file line around the perimeter of the field.&amp; The runner at the back of the line runs to the outside to sprint forward to a position in front of the original leader and becomes the new leader.&amp; He/she slows to the pace of the group.&amp; Then, the new person in the back of the line sprints forward and becomes the new leader and slows down to the pace of the group.&amp; The process repeats and becomes a cycle.&amp;
+You can make this a competitive exercise and increases the intensity by racing teams against each other.&amp;
+Begin with 1 lap of the field.&amp; Build to 4.</string>
+		<key>url</key>
+		<string>3918494127001</string>
+		<key>thumbnail</key>
+		<string>2_4_1.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Throwing Warm-Up</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 2 _ Phase 3 _ Shoulder Prep &amp; Throwing Warm-Up _ Standard throwing warm up _ Players to pair up with a cricket ball between them and a baseball mitt each. Wicketkeeper to use catching gloves. each player to complete following number throws at set distances with suggested intensity
+
+1) 1 set of 10 flat throws at 70-75% intensity over 15-20m
+2) 1 set of 10 flat throws at 90% intensity over 25-30m
+3) 1 set of 10 flat throws at 90% intensity over 35-40m</string>
+		<key>url</key>
+		<string>3918536523001</string>
+		<key>thumbnail</key>
+		<string>2_3_5.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Push-Ups</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 2 _ Phase 3 _ Shoulder Prep &amp; Throwing Warm-Up _ Push-Ups _ Complete as many sets as required to complete a total of 20 push-ups with good form.&amp; Aim is to complete 20 good form push-ups consecutively</string>
+		<key>url</key>
+		<string>3918494128001</string>
+		<key>thumbnail</key>
+		<string>2_3_4.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Supermans</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 2 _ Phase 3 _ Shoulder Prep &amp; Throwing Warm-Up _ Supermans _ In plank position, simultaneously extend left arm and right leg.&amp; Hold for 3 seconds.&amp; Return to centre and repeat the action with right arm and left leg</string>
+		<key>url</key>
+		<string>3918544796001</string>
+		<key>thumbnail</key>
+		<string>2_3_3.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Open Arms</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 2 _ Phase 3 _ Shoulder Prep &amp; Throwing Warm-Up _ Open Arms _ Stand tall, feet parallel and shoulder width apart.&amp; With arms at 60 degree abduction and palms facing forward, squeeze arms behind the line of the body to open the chest &amp; shoulders.&amp; Bring back to the midline and lift to 90 degree abduction and repeat the action.&amp; Bring back to the midline and lift to 120 degree abduction and repeat the action.&amp; Increase range and movement speed, and vary arm position - i.e right arm at 120 degree with left arm at 60 degree abduction.</string>
+		<key>url</key>
+		<string>3918536524001</string>
+		<key>thumbnail</key>
+		<string>2_3_2.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Arm Circles : Small-Big-Small</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 2 _ Phase 3 _ Shoulder Prep &amp; Throwing Warm-Up _ Arm Circles : Small-Big-Small _ Stand tall, feet parallel and shoulder width apart.&amp; Extend arms out to the side, shoulder height.&amp; Make small circular movements with the arms, initiating the action from the shoulder joint.&amp; Complete in a forwards motion, followed by a backwards motion.&amp; Increase range and movement speed whilst maintaining stability and stillness through trunk and hips.</string>
+		<key>url</key>
+		<string>3918494129001</string>
+		<key>thumbnail</key>
+		<string>2_3_1.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>10 - 0 - 5 Turn Speed</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 2 _ Phase 2 _ Fielding-Based Activity &amp; Acceleration &amp; Turn Speed _ 10 - 0 - 5 Turn Speed :: Right-Side Turn / Left-Side Turn _ This drill requires players to work their turn speed in relation to correct wicket-running mechanics.&amp;
+From athletic &quot;power&quot; stance position, players to sprint forward to the 10m line and turn rapidly to return 5m.</string>
+		<key>url</key>
+		<string>3918544797001</string>
+		<key>thumbnail</key>
+		<string>2_2_3.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Falling Acceleration Starts</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 2 _ Phase 2 _ Fielding-Based Activity &amp; Acceleration &amp; Turn Speed _ Falling Acceleration Starts _ From athletic &quot;power&quot; stance position, on cue, players to lean and &quot;fall&quot; forward as far as possible.&amp; As soon as they feel as if they are going to fall, facilitate a good knee drive in front to explode towards the 20 metre marker
+
+Complete 3 run-throughs, increasing pace with each effort.
+
+As a variation, stand at the 10 Metre mark with a tennis ball in hand and arm extended at shoulder level held out to the side. Drops the ball - the aim is for the player to catch the ball before it bounces</string>
+		<key>url</key>
+		<string>3918536525001</string>
+		<key>thumbnail</key>
+		<string>2_2_2.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Catch + Running Lane Drill</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 2 _ Phase 2 _ Fielding-Based Activity &amp; Acceleration &amp; Turn Speed _ Catch + Running Lane Drill _ Position a pair of cones approximately 15-20 metres apart.&amp; Divide the group into two groups, asking each group to line up behind each cone to face each other.&amp;
+The first player in each line start running towards each other.&amp; Player 1 underarm throws a cricket ball to player 2; upon releasing the ball, he/she continues running to form the end of the line on the opposition group to where he/she started.&amp;
+Player 2, who has taken the catch with two hands continues to process by underarm throwing to player 3_ and so on.&amp;
+Once each player has been through a couple of rounds of easy pass and catching, add the following variation
+1 Ground balls
+2 Half volleys
+3 High catches - take the catch with both feet in the air
+Upon a player releasing the ball, add the following running variations:
+1 Side steps to the end of the line
+2 Carioca to the end of the line
+3 Sprint to the end of the line
+To finish the drill give a 60 second warning, challenging the group to complete as many &quot;touches as possible and no mistakes</string>
+		<key>url</key>
+		<string>3918494130001</string>
+		<key>thumbnail</key>
+		<string>2_2_1.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Arabesque Balance</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 2 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Arabesque Balance _ High step to plant foot and tip forward into an arabesque balance, maintaining strong streamlined position from crown of head through to extended leg behind.&amp; Hold 3 Seconds.&amp; Aim to hold standing leg straight to encourage length through hamstrings</string>
+		<key>url</key>
+		<string>3918536528001</string>
+		<key>thumbnail</key>
+		<string>2_1_8.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Hop + Hold</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 2 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Hop + Hold _ For this drill, players to hop and hold on the same leg.&amp; Ask them to focus on increasing their hopping distance so that the demands on their landing skills are increased, as well as targeting single leg strength and power components</string>
+		<key>url</key>
+		<string>3918544799001</string>
+		<key>thumbnail</key>
+		<string>2_1_12.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Lateral Leap + Hold</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 2 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Lateral Leap + Hold _ This is essentially the same drill as the leap and hold.&amp; This time leaping in a lateral direction.&amp; Suggest to the players to visualise they are leaping from one side of a lane on an athletics track to the other side.</string>
+		<key>url</key>
+		<string>3918536526001</string>
+		<key>thumbnail</key>
+		<string>2_1_11.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Leap + Hold</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 2 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Leap + Hold _ Players to leap forward a comfortable distance, landing on opposite leg to take off leg.&amp; Players should aim to absorb the impact of landing by flexing ankles, knees and hips.&amp; The landing should be &quot;held&quot; for 3 seconds, before embarking on subsequent hop. (arms can be used to assist in hopping and landing mechanics.)</string>
+		<key>url</key>
+		<string>3918494131001</string>
+		<key>thumbnail</key>
+		<string>2_1_10.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Fast Switch Reaction Cues</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 2 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Fast Switch Reaction Cues _ Players to raise one leg to a locked horizontal position with hip held high.&amp; On cue of &quot;switch&quot;, players to with legs rapidly as possible and hold.&amp; The aim is to maintain stillness of head and trunk, whilst arms and legs change positions with rhythmic speed and a piston-like action.&amp;
+Change the cue from &quot;Switch&quot; to a number (e.g. 1,2,3,4) to indicate the number of times arms and legs to change position. Call the numbers randomly.</string>
+		<key>url</key>
+		<string>3918544800001</string>
+		<key>thumbnail</key>
+		<string>2_1_9.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Sumo Squats</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 2 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Traveling Sumo Squats _ Take a side-step so that feet are placed wider than shoulder width apart, weight equally distributed from left to right from heels to balls of feet.&amp;
+Initiate a squat movement simultaneously flexing hips, knees and ankles.&amp; Keep your weight centred, knees taking over toes and soles of feet in contact with the ground.&amp;
+Descent to a thighs parallel position and pause for 1 Second. (Heels must stay on the ground.)
+As you lift out of the squat, word for the ground up to push &quot;through&quot; the floor into full standing position.&amp; Pivot on lead leg to face the opposite direction and repeat.</string>
+		<key>url</key>
+		<string>3918494132001</string>
+		<key>thumbnail</key>
+		<string>2_1_7.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Lunge + &quot;Point The Gun&quot;</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 2 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Lunge + &quot;Point The Gun&quot; _ The lunge action is the same, this time arms are extended in front of the chest with palms pressed together.&amp;
+As you descended into lunge, rotate torso to the same side as the bent knee, aiming to twist as far as possible with arms straight and head in line with torso.</string>
+		<key>url</key>
+		<string>3918544801001</string>
+		<key>thumbnail</key>
+		<string>2_1_6.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Lunge + Streamlined Arms</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 2 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Lunge + Streamlined Arms _ Lift right knee high to take an exaggerated step forward and plant the right foot onto the ground pointing directly ahead.&amp;
+Descend into a lunge position by flexing right hip, knee and ankle.&amp; Front thigh should reach parallel position to the floor.&amp; At the same time, extend the left led behind so that there is equal weight distribution to bring strength and stability to the posture.&amp;
+Reach both arms overhead into a streamlined position to open chest , torso, and front of hips.&amp; Face palms forward and squeeze biceps behind ears.&amp; Stay strong through the core as you come out of the lunge to lift left knee high and through to change sides</string>
+		<key>url</key>
+		<string>3918536529001</string>
+		<key>thumbnail</key>
+		<string>2_1_5.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Calf Pumps</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 2 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Calf Pumps</string>
+		<key>url</key>
+		<string>3918494133001</string>
+		<key>thumbnail</key>
+		<string>2_1_4.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Downward Dog to Upward Dog</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 2 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Downward Dog - Plank (10s) - Lower (5s Count) - Upward Dog</string>
+		<key>url</key>
+		<string>3918544802001</string>
+		<key>thumbnail</key>
+		<string>2_1_3.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Downward Dog</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 2 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Downward Facing Dog - Upward Facing Dog</string>
+		<key>url</key>
+		<string>3918536530001</string>
+		<key>thumbnail</key>
+		<string>2_1_2.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Leg Swings (S2S)</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 2 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Leg Swings Side to Side</string>
+		<key>url</key>
+		<string>3918494134001</string>
+		<key>thumbnail</key>
+		<string>2_1_1_b.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Leg Swings (FB)</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 2 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Leg Swings Forwards + Backwards</string>
+		<key>url</key>
+		<string>3918544803001</string>
+		<key>thumbnail</key>
+		<string>2_1_1_a.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Rope Skipping</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 1 _ Phase 4 _ Conditioning Activity _ Rope Skipping _ Rope skipping is an excellent activity to build conditioning, footwork skills, co ordination, leg speed and power.&amp; Players might need to be taught the basics, and once mastered, there are countless drills and exercises to do!
+
+Basic: To find a rope that fits, place one foot in the center of the rope and lift the handles - they shouldn&apos;t go past your armpits.&amp;
+Jump 1 to 2 inches off floor, giving rope just enough space to slip under your feet. Only the balls of feet should touch the floor.&amp;
+Keep elbows close to sides as you turn the rope.&amp; The movement comes from the wrists and forearms, not the shoulders.&amp;
+Aim: One jump per loop, single step.</string>
+		<key>url</key>
+		<string>3918494136001</string>
+		<key>thumbnail</key>
+		<string>1_4_4.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Repeat Run-a-3s</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 1 _ Phase 4 _ Conditioning Activity _ Repeat Run-a-3s _ A bit like suicide runs, but cricket-specific.&amp; Players run 3 runs the length of a cricket pitch.&amp; Their aim is to run as fast as they can, focusing on good turn mechanics.&amp; This is a repeat effort exercise of maximal intensity.&amp;
+
+GIve players a target time in which to run the 3 runs in.&amp; For example, under 15 seconds.&amp;
+
+Provide them with a period of rest to partially recover, but not completely, (no more than 30 seconds.)
+Indicate the number of repetitions to complete.&amp;
+6 reps of 3-Run-A-3&apos;s sub 15 seconds on a 30 second cycle.</string>
+		<key>url</key>
+		<string>3918544804001</string>
+		<key>thumbnail</key>
+		<string>1_4_3.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Dragonfly Run</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 1 _ Phase 4 _ Conditioning Activity _ Dragonfly Run _ 5 Players form a group
+The drill is similar to Indian File Running, Except that the runner weaves though each player in the line.&amp; THe drill incorporates the varied speed component, as well as ducking and weaving drills
+You can make this a competitive exercise and increase the intensity by racing terms against each other
+Begin with 1 lap of the field.&amp; Build to 4 laps</string>
+		<key>url</key>
+		<string>3918536533001</string>
+		<key>thumbnail</key>
+		<string>1_4_2.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Indian File Running</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 1 _ Phase 4 _ Conditioning Activity _ Indian File Running _ 5 Players form a group.&amp;
+The group starts by running in a straight, single file line around the perimeter of the field.&amp; The runner at the back of the line runs to the outside to sprint forward to a position in front of the original leader and becomes the new leader.&amp; He/she slows to the pace of the group.&amp; Then, the new person in the back of the line sprints forward and becomes the new leader and slows down to the pace of the group.&amp; The process repeats and becomes a cycle.&amp;
+You can make this a competitive exercise and increases the intensity by racing teams against each other.&amp;
+Begin with 1 lap of the field.&amp; Build to 4.</string>
+		<key>url</key>
+		<string>3918494137001</string>
+		<key>thumbnail</key>
+		<string>1_4_1.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Throwing Warm-Up</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 1 _ Phase 3 _ Shoulder Health &amp; Upper Body Strength _ Throwing Warm-Up _ Players to pair up with a cricket ball between them and a baseball mitt each.&amp; Wicketkeeper to use catching gloves.&amp; each player to complete following number throws at set distances with suggested intensity
+1) 1 set of 10 flat throws at 70-75% intensity over 15-20m
+2) 1 set of 10 flat throws at 90% intensity over 25-30m
+3) 1 set of 10 flat throws at 90% intensity over 35-40m</string>
+		<key>url</key>
+		<string>3918544805001</string>
+		<key>thumbnail</key>
+		<string>1_3_4.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Supermans </string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 1 _ Phase 3 _ Shoulder Health &amp; Upper Body Strength _ Supermans _ In plank position, simultaneously extend left arm and right leg.&amp; Hold for 3 seconds.&amp; Return to centre and repeat the action with right arm and left leg</string>
+		<key>url</key>
+		<string>3918536536001</string>
+		<key>thumbnail</key>
+		<string>1_3_3.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Open Arms</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 1 _ Phase 3 _ Shoulder Health &amp; Upper Body Strength _ Open Arms _ Stand tall, feet parallel and shoulder width apart.&amp; With arms at 60 degree abduction and palms facing forward, squeeze arms behind the line of the body to open the chest &amp; shoulders.&amp; Bring back to the midline and lift to 90 degree abduction and repeat the action.&amp; Bring back to the midline and lift to 120 degree abduction and repeat the action.&amp; Increase range and movement speed, and vary arm position - i.e right arm at 120 degree with left arm at 60 degree abduction.</string>
+		<key>url</key>
+		<string>3918494138001</string>
+		<key>thumbnail</key>
+		<string>1_3_2.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Arm Circles : Small-Big-Small       </string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 1 _ Phase 3 _ Shoulder Health &amp; Upper Body Strength _ Arm Circles : Small-Big-Small _ Stand tall, feet parallel and shoulder width apart.&amp; Extend arms out to the side, shoulder height.&amp; Make small circular movements with the arms, initiating the action from the shoulder joint.&amp; Complete in a forwards motion, followed by a backwards motion.&amp; Increase range and movement speed whilst maintaining stability and stillness through trunk and hips.</string>
+		<key>url</key>
+		<string>3918544806001</string>
+		<key>thumbnail</key>
+		<string>1_3_1.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>10 - 0 - 5 Turn Speed</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 1 _ Phase 2 _ Fielding-Based Activity &amp; Acceleration &amp; Turn Speed _ 10 - 0 - 5 Turn Speed :: Right-Side Turn / Left-Side Turn _ This drill requires players to work their turn speed in relation to correct wicket-running mechanics.&amp;
+From athletic &quot;power&quot; stance position, players to sprint forward to the 10m line and turn rapidly to return 5m.</string>
+		<key>url</key>
+		<string>3918536537001</string>
+		<key>thumbnail</key>
+		<string>1_2_3.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Falling Acceleration Starts</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 1 _ Phase 2 _ Fielding-Based Activity &amp; Acceleration &amp; Turn Speed _ Faling Acceleration Starts _ From athletic &quot;power&quot; stance position, on cue, players to lean and &quot;fall&quot; forward as far as possible.&amp; As soon as they feel as if they are going to fall, facilitate a good knee drive in front to explode towards the 20 metre marker
+Complete 3 run-throughs, increasing pace with each effort.&amp;
+As a variation, stand at the 10 Metre mark with a tennis ball in hand and arm extended at shoulder level held out to the side.&amp; Drops the ball - the aim is for the player to catch the ball before it bounces</string>
+		<key>url</key>
+		<string>3918494140001</string>
+		<key>thumbnail</key>
+		<string>1_2_2.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Catch + Running Lane Drill</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 1 _ Phase 2 _ Fielding-Based Activity &amp; Acceleration &amp; Turn Speed _ Catch + Running Lane Drill _ Position a pair of cones approximately 15-20 metres apart.&amp; Divide the group into two groups, asking each group to line up behind each cone to face each other.&amp;
+The first player in each line start running towards each other.&amp; Player 1 underarm throws a cricket ball to player 2; upon releasing the ball, he/she continues running to form the end of the line on the opposition group to where he/she started.&amp;
+Player 2, who has taken the catch with two hands continues to process by underarm throwing to player 3_ and so on.&amp;
+Once each player has been through a couple of rounds of easy pass and catching, add the following variation
+1 Ground balls
+2 Half volleys
+3 High catches - take the catch with both feet in the air
+Upon a player releasing the ball, add the following running variations:
+1 Side steps to the end of the line
+2 Carioca to the end of the line
+3 Sprint to the end of the line
+To finish the drill give a 60 second warning, challenging the group to complete as many &quot;touches as possible and no mistakes</string>
+		<key>url</key>
+		<string>3918544807001</string>
+		<key>thumbnail</key>
+		<string>1_2_1.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Leap + Hold</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 1 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Leap + Hold _ Players to leap forward a comfortable distance, landing on opposite leg to take off leg.&amp; Players should aim to absorb the impact of landing by flexing ankles, knees and hips.&amp; The landing should be &quot;held&quot; for 3 seconds, before embarking on subsequent hop. (arms can be used to assist in hopping and landing mechanics.)</string>
+		<key>url</key>
+		<string>3918536538001</string>
+		<key>thumbnail</key>
+		<string>1_1_8.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Fast Switch Reaction Cues</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 1 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Fast Switch Reaction Cues _ Players to raise one leg to a locked horizontal position with hip held high.&amp; On cue of &quot;switch&quot;, players to with legs rapidly as possible and hold.&amp; The aim is to maintain stillness of head and trunk, whilst arms and legs change positions with rhythmic speed and a piston-like action Change the cue from &quot;Switch&quot; to a number (e.g. 1,2,3,4) to indicate the number of times arms and legs to change position.&amp; Call the numbers randomly.</string>
+		<key>url</key>
+		<string>3918494142001</string>
+		<key>thumbnail</key>
+		<string>1_1_7.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Arabesque Balance</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 1 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Arabesque Balance _ High step to plant foot and tip forward into an arabesque balance, maintaining strong streamlined position from crown of head through to extended leg behind.&amp; Hold 3 Seconds.&amp; Aim to hold standing leg straight to encourage length through hamstrings</string>
+		<key>url</key>
+		<string>3918544809001</string>
+		<key>thumbnail</key>
+		<string>1_1_6.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Sumo Squats</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 1 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Travelling Sumo Squats _ Take a side-step so that feet are placed wider than shoulder width apart, weight equally distributed from left to right from heels to balls of feet.&amp; Initiate a squat movement simultaneously flexing hips, knees and ankles.&amp; Keep your weight centred, knees taking over toes and soles of feet in contact with the ground.&amp; Descent to a thighs parallel position and pause for 1 Second. (Heels must stay on the ground.) As you lift out of the squat, word for the ground up to push &quot;through&quot; the floor into full standing position.&amp; Pivot on lead leg to face the opposite direction and repeat.</string>
+		<key>url</key>
+		<string>3918536539001</string>
+		<key>thumbnail</key>
+		<string>1_1_5.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Lunge + Streamlined Arms</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 1 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Lunge + Streamlined Arms _ Lift right knee high to take an exaggerated step forward and plant the right foot onto the ground pointing directly ahead.&amp; Descend into a lunge position by flexing right hip, knee and ankle.&amp; Front thigh should reach parallel position to the floor.&amp; At the same time, extend the left led behind so that there is equal weight distribution to bring strength and stability to the posture.&amp; Reach both arms overhead into a streamlined position to open chest , torso, and front of hips. Face palms forward and squeeze biceps behind ears.&amp; Stay strong through the core as you come out of the lunge to lift left knee high and through to change sides</string>
+		<key>url</key>
+		<string>3918544810001</string>
+		<key>thumbnail</key>
+		<string>1_1_4.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Calf Pumps</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 1 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Calf Pumps</string>
+		<key>url</key>
+		<string>3918536540001</string>
+		<key>thumbnail</key>
+		<string>1_1_3.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Downward Dog</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 1 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Downward Facing Dog - Upward Facing Dog</string>
+		<key>url</key>
+		<string>3918494143001</string>
+		<key>thumbnail</key>
+		<string>1_1_2.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Leg Swings (S2S)</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 1 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Leg Swings Side to Side</string>
+		<key>url</key>
+		<string>3918544811001</string>
+		<key>thumbnail</key>
+		<string>1_1_1_b.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Leg Swings (FB)</string>
+		<key>module</key>
+		<string>CricFit</string>
+		<key>description</key>
+		<string>Stage 1 _ Phase 1 _ Dynamic Flex &amp; Strength &amp; Hop + Holds _ Leg Swings Forwards + Backwards</string>
+		<key>url</key>
+		<string>3918536541001</string>
+		<key>thumbnail</key>
+		<string>1_1_1_a.jpg</string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Tackling pre-game nerves</string>
+		<key>module</key>
+		<string>Above The Shoulders</string>
+		<key>description</key>
+		<string></string>
+		<key>url</key>
+		<string>6028852890001</string>
+		<key>thumbnail</key>
+		<string></string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Emotion</string>
+		<key>module</key>
+		<string>Above The Shoulders</string>
+		<key>description</key>
+		<string></string>
+		<key>url</key>
+		<string>6028857283001</string>
+		<key>thumbnail</key>
+		<string></string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Reflecting on your dismissal</string>
+		<key>module</key>
+		<string>Above The Shoulders</string>
+		<key>description</key>
+		<string></string>
+		<key>url</key>
+		<string>6028860091001</string>
+		<key>thumbnail</key>
+		<string></string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Self Talk</string>
+		<key>module</key>
+		<string>Above The Shoulders</string>
+		<key>description</key>
+		<string></string>
+		<key>url</key>
+		<string>6028852889001</string>
+		<key>thumbnail</key>
+		<string></string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Game Plan</string>
+		<key>module</key>
+		<string>Above The Shoulders</string>
+		<key>description</key>
+		<string></string>
+		<key>url</key>
+		<string>6028857527001</string>
+		<key>thumbnail</key>
+		<string></string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Practise with purpose</string>
+		<key>module</key>
+		<string>Above The Shoulders</string>
+		<key>description</key>
+		<string></string>
+		<key>url</key>
+		<string>6028852888001</string>
+		<key>thumbnail</key>
+		<string></string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Breathing</string>
+		<key>module</key>
+		<string>Above The Shoulders</string>
+		<key>description</key>
+		<string></string>
+		<key>url</key>
+		<string>6028859381001</string>
+		<key>thumbnail</key>
+		<string></string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Distractions</string>
+		<key>module</key>
+		<string>Above The Shoulders</string>
+		<key>description</key>
+		<string></string>
+		<key>url</key>
+		<string>6028854100001</string>
+		<key>thumbnail</key>
+		<string></string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Being Present</string>
+		<key>module</key>
+		<string>Above The Shoulders</string>
+		<key>description</key>
+		<string></string>
+		<key>url</key>
+		<string>6028857898001</string>
+		<key>thumbnail</key>
+		<string></string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Above the Shoulders Intro</string>
+		<key>module</key>
+		<string>Above The Shoulders</string>
+		<key>description</key>
+		<string></string>
+		<key>url</key>
+		<string>6028857526001</string>
+		<key>thumbnail</key>
+		<string></string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Coach Approach</string>
+		<key>module</key>
+		<string>The Basics</string>
+		<key>description</key>
+		<string></string>
+		<key>url</key>
+		<string>4790958134001</string>
+		<key>thumbnail</key>
+		<string></string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Leadership</string>
+		<key>module</key>
+		<string>The Basics</string>
+		<key>description</key>
+		<string></string>
+		<key>url</key>
+		<string>4790908362001</string>
+		<key>thumbnail</key>
+		<string></string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Mental</string>
+		<key>module</key>
+		<string>The Basics</string>
+		<key>description</key>
+		<string></string>
+		<key>url</key>
+		<string>4790722376001</string>
+		<key>thumbnail</key>
+		<string></string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Physical</string>
+		<key>module</key>
+		<string>The Basics</string>
+		<key>description</key>
+		<string></string>
+		<key>url</key>
+		<string>4790722367001</string>
+		<key>thumbnail</key>
+		<string></string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Nutrition</string>
+		<key>module</key>
+		<string>The Basics</string>
+		<key>description</key>
+		<string></string>
+		<key>url</key>
+		<string>4790697936001</string>
+		<key>thumbnail</key>
+		<string></string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Wicketkeeping</string>
+		<key>module</key>
+		<string>The Basics</string>
+		<key>description</key>
+		<string></string>
+		<key>url</key>
+		<string>4790697927001</string>
+		<key>thumbnail</key>
+		<string></string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Fielding</string>
+		<key>module</key>
+		<string>The Basics</string>
+		<key>description</key>
+		<string></string>
+		<key>url</key>
+		<string>4790958132001</string>
+		<key>thumbnail</key>
+		<string></string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Spin Bowling</string>
+		<key>module</key>
+		<string>The Basics</string>
+		<key>description</key>
+		<string></string>
+		<key>url</key>
+		<string>4790697929001</string>
+		<key>thumbnail</key>
+		<string></string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Pace Bowling</string>
+		<key>module</key>
+		<string>The Basics</string>
+		<key>description</key>
+		<string></string>
+		<key>url</key>
+		<string>4790722370001</string>
+		<key>thumbnail</key>
+		<string></string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Batting</string>
+		<key>module</key>
+		<string>The Basics</string>
+		<key>description</key>
+		<string></string>
+		<key>url</key>
+		<string>4790722384001</string>
+		<key>thumbnail</key>
+		<string></string>
+		<key>keywords</key>
+		<string></string>
+	</dict>
+</array>
+</plist>
